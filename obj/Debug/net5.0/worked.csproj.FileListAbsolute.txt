@@ -1,0 +1,16 @@
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.csproj.AssemblyReference.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.AssemblyInfoInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.AssemblyInfo.cs
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.csproj.CoreCompileInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\worked.exe
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\worked.deps.json
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\worked.runtimeconfig.json
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\worked.runtimeconfig.dev.json
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\worked.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\ref\worked.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\bin\Debug\net5.0\worked.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\ref\worked.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\worked\obj\Debug\net5.0\worked.genruntimeconfig.cache

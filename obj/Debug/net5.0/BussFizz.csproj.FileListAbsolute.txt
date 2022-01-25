@@ -1,0 +1,16 @@
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\BussFizz.exe
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\BussFizz.deps.json
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\BussFizz.runtimeconfig.json
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\BussFizz.runtimeconfig.dev.json
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\BussFizz.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\ref\BussFizz.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\bin\Debug\net5.0\BussFizz.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.csproj.AssemblyReference.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.AssemblyInfoInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.AssemblyInfo.cs
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.csproj.CoreCompileInputs.cache
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\ref\BussFizz.dll
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.pdb
+C:\Users\luizr\OneDrive\Área de Trabalho\BuzzFizz\obj\Debug\net5.0\BussFizz.genruntimeconfig.cache
